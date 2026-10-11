@@ -19,9 +19,9 @@
 
 ### Блок-схема
 
-<img width="492" height="532" alt="image" src="https://github.com/user-attachments/assets/5087cbca-eac3-4c53-88da-7ee2d05db5e8" />
+<img width="492" height="532" alt="image" src="https://github.com/user-attachments/assets/96ef3b86-ca05-4a82-923b-099e1f528d33" />
 
-[Ссылка на изображение блок-схемы](https://clck.ru/3WRmfM)
+[Ссылка на изображение блок-схемы](https://clck.ru/3WRmne)
 
 # 2. Реализация программы
 
